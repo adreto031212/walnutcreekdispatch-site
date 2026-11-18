@@ -1,0 +1,25 @@
+# Walnut Creek Dispatch
+
+> The Walnut Creek Dispatch is a free weekly email newsletter about Walnut Creek, Lafayette, Orinda and Moraga, CA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in Walnut Creek and Lamorinda](https://www.walnutcreekdispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.walnutcreekdispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.walnutcreekdispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Downtown Walnut Creek](https://www.walnutcreekdispatch.com/downtown-walnut-creek/): The downtown around North Main Street and North Broadway, with City Hall, Civic Park, the Walnut Creek Library at Lincoln Avenue, the Lesher Center for the Arts and Walnut Creek BART.
+- [Northgate](https://www.walnutcreekdispatch.com/northgate/): The northeast foothills along Walnut Avenue, Oak Grove Road and Castle Rock Road, reaching Shell Ridge Open Space and the Castle Rock Regional Recreation Area.
+- [Ygnacio Valley](https://www.walnutcreekdispatch.com/ygnacio-valley/): The valley along Ygnacio Valley Road, with Heather Farm Park, the Clarke Memorial Swim Center, the Gardens at Heather Farm, the Shadelands Business Park and the Shadelands Ranch Museum.
+- [Tice Valley and Rossmoor](https://www.walnutcreekdispatch.com/tice-valley-rossmoor/): The southwest valley along Tice Valley Boulevard and Rossmoor Parkway, with Tice Valley Park and its city gymnasium and the Rossmoor Shopping Center.
+- [Saranap](https://www.walnutcreekdispatch.com/saranap/): The unincorporated area along Boulevard Way, Saranap Avenue and Olympic Boulevard, between Highway 24 and the Walnut Creek city limit, with the Boulevard Way mixed-use corridor.
+- [Contra Costa Centre](https://www.walnutcreekdispatch.com/contra-costa-centre/): The transit village around Pleasant Hill/Contra Costa Centre BART on Treat Boulevard, where the Iron Horse Trail, County Connection buses and Highway 680 meet.
+- [Larkey Park and First Avenue](https://www.walnutcreekdispatch.com/larkey-park/): The west side around First Avenue and Buena Vista Avenue, with Larkey Park and the Lindsay Wildlife Experience, between Walnut Creek and Pleasant Hill BART.
+- [Downtown Lafayette](https://www.walnutcreekdispatch.com/downtown-lafayette/): The Downtown Specific Plan area along Mount Diablo Boulevard, with Lafayette BART and the Lafayette Library and Learning Center at First Street, home of the City Council's meeting hall.
+- [Burton Valley](https://www.walnutcreekdispatch.com/burton-valley/): St. Mary's Road south of downtown Lafayette, with the Lafayette Community Center, Lafayette Community Park and the Lafayette-Moraga Regional Trail running alongside the road.
+- [Happy Valley and the Reservoir](https://www.walnutcreekdispatch.com/happy-valley-reservoir/): Happy Valley Road and the Lafayette Reservoir Recreation Area off Mount Diablo Boulevard, joined by the Walter Costa Trail over the ridge between them.
+- [Lafayette Ridge and Reliez Valley](https://www.walnutcreekdispatch.com/lafayette-ridge-reliez-valley/): North Lafayette along Pleasant Hill Road and Reliez Valley Road, with the Lafayette Ridge Trail, Acalanes Ridge and the Reliez Valley staging area into Briones Regional Park.
+- [Orinda Village](https://www.walnutcreekdispatch.com/orinda-village/): Orinda Way north of Highway 24 and Orinda BART, with the Orinda Library, the Orinda Community Center and Orinda Community Park.
+- [Theatre Square and the Crossroads](https://www.walnutcreekdispatch.com/orinda-crossroads/): Where Moraga Way meets Orinda Way just south of Orinda BART and Highway 24, with the Orinda Theatre and Theatre Square.
+- [Moraga Center](https://www.walnutcreekdispatch.com/moraga-center/): The town center where Moraga Road meets Moraga Way, with Hacienda de las Flores on Donald Drive, Moraga Commons Park and the Moraga Library on St. Mary's Road.
+- [Rheem Valley](https://www.walnutcreekdispatch.com/rheem-valley/): North Moraga along Moraga Road and Rheem Boulevard, with the Rheem Valley Shopping Center, the Rheem Theatre on Park Street and the Town Offices at 329 Rheem Boulevard.
